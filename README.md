@@ -89,4 +89,3 @@ CONTACT_INFO: Contact us at: support@techsolutions.com | Call: 123-456-7890
 
 [![Watch video]([https://via.placeholder.com/150](https://drive.google.com/file/d/1tXEvcD5v06bfZbi-w6Wz6uv7tpjp5hjQ/view?usp=sharing))]([https://drive.google.com/file/d/your_video_id/view?usp=sharing](https://drive.google.com/file/d/1n_0_zfNXoWuab7k_YG5uLJ24IH56XBPh/view?usp=sharing))
 
-[watch video ](https://drive.google.com/file/d/your_video_id/view?usp=sharing](https://drive.google.com/file/d/1n_0_zfNXoWuab7k_YG5uLJ24IH56XBPh/view?usp=sharing)
