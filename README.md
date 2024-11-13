@@ -24,7 +24,7 @@ cd automated-landing-page-builder
 chmod +x build.sh
 ```
 
-- you can executable rights by
+- you can check executable rights by
 
 ```bash
 ls -l 
