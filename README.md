@@ -70,8 +70,8 @@ CONTACT_INFO: Contact us at: support@techsolutions.com | Call: 123-456-7890
  https://techsolutions.com/start
  Tech Solutions
  Empowering Your Digital Transformation
- 3498db
- 2ecc71
+ #f00518
+ #f08991
  logo.png
  Custom Software Development, IT Consulting, Cloud Solutions, Cybersecurity, AI Integration
  123-456-7890
