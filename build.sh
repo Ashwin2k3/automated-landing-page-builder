@@ -186,6 +186,7 @@ EOL
 
 echo "Landing page files generated successfully in the '$DIR_NAME' folder."
 
+echo "Setting up Your landing page ..........."
 sleep 2 
 
 cd $DIR_NAME 
