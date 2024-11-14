@@ -1,3 +1,9 @@
+* [How to use](#how-to-use)
+* [Display of input  after running the build script](#display-of-input--after-running-the-build-script)
+* [Sample input](#sample-input)
+* [use following for customising the webpage](#use-following-for-customising-the-webpage)
+* [Working](#working)
+
 # Automated Landing Page Builder
 
 this is an automated landing page builder that can be used to build simple landing pages just by filling the simple form that takes in the business information. 
